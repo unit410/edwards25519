@@ -1,3 +1,3 @@
-module gitlab.com/polychainlabs/edwards25519
+module gitlab.com/unit410/edwards25519
 
-go 1.13
+go 1.18
